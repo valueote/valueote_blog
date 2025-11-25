@@ -1,4 +1,19 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://valueote.pages.dev/'
 languageCode = 'zh-cn'
 title = 'Valueote'
 theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = false
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "I'm Valueote"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/valueote"
