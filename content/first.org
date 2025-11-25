@@ -1,1 +1,5 @@
-* My first blog
+#+TITLE: Hello, Hugo!
+#+DATE: 2025-11-25
+#+DRAFT: false
+#+AUTHOR: Valueote
+* Hello, Hugo!
