@@ -1,6 +1,6 @@
 #+TITLE: 财富自由革命之路
 #+DATE: 2025-11-26
-#+DRAFT: true
+#+DRAFT: false 
 #+AUTHOR: Valueote
 
 * 财富自由革命之路
