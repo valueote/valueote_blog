@@ -25,24 +25,18 @@ url = "https://github.com/valueote"
 
 [[menu.main]]
 identifier = "search"
-name = "搜索"
+name = "Search"
 url = "/search/"
-weight = 5
-
-[[menu.main]]
-identifier = "posts"
-name = "文章"
-url = "/posts/"
 weight = 10
 
 [[menu.main]]
 identifier = "archives"
-name = "归档"
+name = "Archives"
 url = "/archives/"
 weight = 20
 
 [[menu.main]]
 identifier = "about"
-name = "关于"
+name = "About"
 url = "/about/"
 weight = 30
