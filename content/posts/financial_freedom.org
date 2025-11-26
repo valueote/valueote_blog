@@ -3,6 +3,7 @@
 #+DRAFT: false 
 #+AUTHOR: Valueote
 #+CATEGORIES[]: 财富自由革命之路
+#+DESCRIPTION: 财富自由革命之路 孙宇晨于2016年在喜马拉雅上播出的节目，很多观点非常有趣，记录一下
 
 * 财富自由革命之路
 ** 财富自由的定义
