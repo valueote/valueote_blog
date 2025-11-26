@@ -12,6 +12,8 @@ home = ["HTML", "RSS", "JSON"]
 defaultTheme = "auto"
 ShowReadingTime = true
 ShowShareButtons = false
+ShowToc = true
+TocOpen = true
 
 [params.homeInfoParams]
 Title = "Hi there 👋, I'm Valueote"
@@ -40,3 +42,9 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 30
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 40

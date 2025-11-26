@@ -2,6 +2,7 @@
 #+DATE: 2025-11-26
 #+DRAFT: false 
 #+AUTHOR: Valueote
+#+CATEGORIES[]: 财富自由革命之路
 
 * 财富自由革命之路
 ** 财富自由的定义
