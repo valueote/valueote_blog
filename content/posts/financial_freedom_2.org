@@ -1,5 +1,5 @@
 #+TITLE: 财富自由革命之路(二)
-#+DATE: 2025-12-3
+#+DATE: 2025-12-03
 #+DRAFT: false 
 #+AUTHOR: Valueote
 #+CATEGORIES[]: 财富自由革命之路
